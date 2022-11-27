@@ -2,7 +2,6 @@
 import os
 import unittest
 
-#import
 from config import basedir
 from app import app, db
 from datetime import datetime, timedelta
